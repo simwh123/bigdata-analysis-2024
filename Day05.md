@@ -7,7 +7,7 @@
 ##### 제주도 핫플레이스 분석
 - 지도 시각화
   - 카카오 API 사용(https://developers.kakao.com/)
-  - ![지도 마커클리스터](https://raw.githubusercontent.com/simwh123/bigdata-analysis-2024/main/images/ba008.png)
+   ![지도 마커클리스터](https://raw.githubusercontent.com/simwh123/bigdata-analysis-2024/main/images/ba008.png)
 
 
 ##### 스타벅스 입지 분석

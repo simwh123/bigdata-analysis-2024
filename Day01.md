@@ -54,12 +54,13 @@
 
 #### Pandas 학습
 - 데이터 분석(로딩, 처리..) 라이브러리
-    ![Pandas]](https://raw.githubusercontent.com/simwh123/bigdata-analysis-2024/main/images/ba001.png)
+    
+![Pandas](https://raw.githubusercontent.com/simwh123/bigdata-analysis-2024/main/images/ba001.png)
 
-  - Pandas 자료구조
-      - 데이터프레임, 시리즈
-      - 데이터프레임 사용법
-      - 데이터 통합
+- Pandas 자료구조
+    - 데이터프레임, 시리즈
+    - 데이터프레임 사용법
+    - 데이터 통합
        
 #### VS Code 문제확인
 1. Jupyter Notebook 실행 속도 느려지는 문제 - Pylance 충돌
