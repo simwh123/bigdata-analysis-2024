@@ -5,7 +5,7 @@
 #### 데이터 분석 실습
 
 ##### 제주도 핫플레이스 분석
-- 지도 시각화
+- [지도 시각화](https://github.com/simwh123/bigdata-analysis-2024/blob/main/day05/da12_%EC%A0%9C%EC%A3%BC%EB%8F%84%ED%95%AB%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4.ipynb)
   - 카카오 API 사용(https://developers.kakao.com/)
    ![지도 마커클리스터](https://raw.githubusercontent.com/simwh123/bigdata-analysis-2024/main/images/ba008.png)
 
