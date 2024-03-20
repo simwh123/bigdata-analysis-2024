@@ -10,7 +10,7 @@
   - http인지 https인지 확인필요
 - [반복문으로 처리](https://github.com/simwh123/bigdata-analysis-2024/blob/main/day09/da19_%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8F%AC%ED%84%B8_OpenAPI%ED%99%9C%EC%9A%A9.ipynb)
 
-#### [통계 분석 리뷰]()
+#### [통계 분석 리뷰](https://github.com/simwh123/bigdata-analysis-2024/blob/main/day09/da20_%EC%99%80%EC%9D%B8%ED%92%88%EC%A7%88%EB%93%B1%EA%B8%89_%EB%B6%84%EC%84%9D.ipynb)
 - 그래프를 사용한 기술 통계 분석
 - 히트맵을 사용한 상관분석
 - T-검정, 회귀분석
