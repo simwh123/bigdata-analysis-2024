@@ -54,7 +54,13 @@
   - 통계 분석 리뷰
   - 머신러닝 실습
 
-## [10일차]
+## [10일차](https://github.com/simwh123/bigdata-analysis-2024/blob/main/Day10.md)
 - 빅데이터 실습
   - 통계 분석(와인품질) 리뷰
   - 타이타닉 생존자 상관관계 분석
+
+## [11일차](https://github.com/simwh123/bigdata-analysis-2024/blob/main/Day11.md)
+- 머신러닝
+  - 회귀분석
+  - 환경에 따른 주택가격 예측
+  - 항목에 따른 자동차 연비 예측
